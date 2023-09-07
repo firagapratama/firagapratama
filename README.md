@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Firaga Pratama</h1>
+<h3 align="center">A passionate Software Quality Assurance Engineer</h3>
+
 # 💫 About Me:
 🔭 I'm currently working on PT. Arkamaya.<br>🌱 I'm currently learning Selenium, Appium, Katalon.<br>💬 Ask me about Quality Assurance.<br>👨🏻 Pronouns : He/Him.<br>⚡ Fun Fact : I ❤️ reading 📖 & listening to 🎶.
 
