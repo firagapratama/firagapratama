@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Quality Assurance Engineer</h3>
 
 # 💫 About Me:
-🔭 I'm currently working on PT. PT Rahadhyan Integrasi Nusantara.<br>🌱 I'm currently learning Playwright, Appium, k6.<br>💬 Ask me about Quality Assurance.<br>👨🏻 Pronouns : He/Him.<br>⚡ Fun Fact : I ❤️ reading 📖 & listening to 🎶.
+🔭 I'm currently working on PT. Rahadhyan Integrasi Nusantara.<br>🌱 I'm currently learning Playwright, Appium, k6.<br>💬 Ask me about Quality Assurance.<br>👨🏻 Pronouns : He/Him.<br>⚡ Fun Fact : I ❤️ reading 📖 & listening to 🎶.
 
 
 ## 🌐 Socials:
